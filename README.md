@@ -1,2 +1,1 @@
-#add functionb
-#git-test
+#git-test functiona functionb
